@@ -13,11 +13,9 @@ body {
   background-image: url(../../assets/img/background.png);
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0;
+  display: none;
 }
-body:hover {
-  opacity:1;
-}
+
 
 #logo {
   margin-top: 25px;
